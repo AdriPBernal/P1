@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Conversor de binario a decimal
+Conversor de binario a decimal.
 ## How to test
 
 Ver la simulacion en Wokwi
